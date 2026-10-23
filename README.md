@@ -110,3 +110,7 @@ uv run ruff check . && uv run ruff format --check . && uv run pyright
 Coverage is metropolitan France including Corsica; overseas territories are out
 of scope. Temperatures are forecasts, coloured on a diverging blue→red scale
 centred on the national median (blue = cooler, red = hotter).
+
+## License
+
+[MIT](LICENSE)
